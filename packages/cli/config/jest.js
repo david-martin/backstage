@@ -144,7 +144,7 @@ async function getProjectConfig(targetPath, displayName) {
     // A bit more opinionated
     testMatch: ['**/*.test.{js,jsx,ts,tsx,mjs,cjs}'],
 
-    moduleLoader: envOptions.nextTests
+    runtime: envOptions.nextTests
       ? require.resolve('./jestCachingModuleLoader')
       : undefined,
 
