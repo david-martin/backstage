@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhosak
+  description: Red Hat Openshift Streams for Apache Kafka
+spec:
+  owner: team-b
+  domain: managed-services

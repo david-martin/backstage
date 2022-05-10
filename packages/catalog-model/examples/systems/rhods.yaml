@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhods
+  description: Red Hat Openshift Data Science
+spec:
+  owner: team-e
+  domain: managed-services

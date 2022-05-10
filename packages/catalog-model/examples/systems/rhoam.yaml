@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhoam
+  description: Red Hat Openshift API Management
+spec:
+  owner: team-a
+  domain: managed-services

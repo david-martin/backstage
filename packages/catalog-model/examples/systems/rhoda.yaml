@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhoda
+  description: Red Hat Openshift Database Access
+spec:
+  owner: team-f
+  domain: managed-services

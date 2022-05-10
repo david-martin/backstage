@@ -5,6 +5,15 @@ metadata:
   description: A collection of all Backstage example systems
 spec:
   targets:
-    - ./systems/artist-engagement-portal-system.yaml
-    - ./systems/audio-playback-system.yaml
-    - ./systems/podcast-system.yaml
+    # - ./systems/artist-engagement-portal-system.yaml
+    # - ./systems/audio-playback-system.yaml
+    # - ./systems/podcast-system.yaml
+    - ./systems/rhoam.yaml
+    - ./systems/rhosak.yaml
+    - ./systems/rhosr.yaml
+    - ./systems/rhoc.yaml
+    - ./systems/rhods.yaml
+    - ./systems/rhoda.yaml
+    - ./systems/rhobs.yaml
+    - ./systems/quayio.yaml
+    - ./systems/hypershift.yaml

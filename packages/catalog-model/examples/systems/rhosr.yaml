@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhosr
+  description: Red Hat Openshift Service Registry
+spec:
+  owner: team-c
+  domain: managed-services

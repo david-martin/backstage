@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhoc
+  description: Red Hat Openshift Connectors
+spec:
+  owner: team-d
+  domain: managed-services

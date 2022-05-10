@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: hypershift
+  description: Hypershift
+spec:
+  owner: team-i
+  domain: managed-services

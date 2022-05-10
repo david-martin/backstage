@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: quayio
+  description: Quay.io
+spec:
+  owner: team-h
+  domain: managed-services
